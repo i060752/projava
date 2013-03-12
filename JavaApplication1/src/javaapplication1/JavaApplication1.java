@@ -19,5 +19,27 @@ public class JavaApplication1 {
         System.out.println("Olá Rui,");
         System.out.println("Boa tarde!");
         System.out.println("Adeus!");
+        
+        double a=2, b=3, c=0;
+        
+        if(a==0)
+        {
+            System.out.println("Nao faz nada");
+        }
+        else
+        {
+            c=a+b;
+            System.out.print(c);
+            System.out.println("\n");
+            c=a-b;
+            System.out.print(c);
+            System.out.println("\n");
+            c=a*b;
+            System.out.print(c);
+            System.out.println("\n");
+            c=a/b;
+            System.out.print(c);
+            System.out.println("\n");
+        }
     }
 }
