@@ -18,5 +18,6 @@ public class JavaApplication1 {
         
         System.out.println("Olá Rui,");
         System.out.println("Boa tarde!");
+        System.out.println("Adeus!");
     }
 }
